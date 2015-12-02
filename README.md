@@ -12,6 +12,7 @@ twin <- read.csv("~/Documents/6215-Applied Multivariance Model/project/nmtwins.c
 #View(twin)
 str(twin)
 dim(twin)
+gffa
 ```
 
 ```{r}
