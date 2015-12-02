@@ -5,7 +5,7 @@ author: "Chunmei Gao"
 date: "November 29, 2015"
 output: html_document
 ---
-
+try me
 ```{r}
 library(corrplot)
 twin <- read.csv("~/Documents/6215-Applied Multivariance Model/project/nmtwins.csv")
